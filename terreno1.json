@@ -1,0 +1,323 @@
+{
+	"celula" :[{
+		"pressaoSubterranea":"0.63",
+		"coeficienteDeErro":"0.07",
+		"profundidade":"0.14",
+		"petroleo":"4"
+	}, {
+		"pressaoSubterranea":"0.52",
+		"coeficienteDeErro":"0.07",
+		"profundidade":"0.17",
+		"petroleo":"3"
+	}, {
+		"pressaoSubterranea":"0.78",
+		"coeficienteDeErro":"0.08",
+		"profundidade":"0.91",
+		"petroleo":"0"
+	}, {
+		"pressaoSubterranea":"0.46",
+		"coeficienteDeErro":"0.04",
+		"profundidade":"0.21",
+		"petroleo":"3"
+	}, {
+		"pressaoSubterranea":"0.65",
+		"coeficienteDeErro":"0.07",
+		"profundidade":"0.50",
+		"petroleo":"0"
+	}, {
+		"pressaoSubterranea":"0.52",
+		"coeficienteDeErro":"0.03",
+		"profundidade":"0.45",
+		"petroleo":"3"
+	}, {
+		"pressaoSubterranea":"0.19",
+		"coeficienteDeErro":"0.02",
+		"profundidade":"0.19",
+		"petroleo":"4"
+	}, {
+		"pressaoSubterranea":"0.77",
+		"coeficienteDeErro":"0.08",
+		"profundidade":"0.45",
+		"petroleo":"0"
+	}, {
+		"pressaoSubterranea":"0.45",
+		"coeficienteDeErro":"0.03",
+		"profundidade":"0.16",
+		"petroleo":"0"
+	}, {
+		"pressaoSubterranea":"0.65",
+		"coeficienteDeErro":"0.00",
+		"profundidade":"0.49",
+		"petroleo":"2"
+	}, {
+		"pressaoSubterranea":"0.41",
+		"coeficienteDeErro":"0.00",
+		"profundidade":"0.93",
+		"petroleo":"1"
+	}, {
+		"pressaoSubterranea":"0.43",
+		"coeficienteDeErro":"0.01",
+		"profundidade":"0.04",
+		"petroleo":"4"
+	}, {
+		"pressaoSubterranea":"0.52",
+		"coeficienteDeErro":"0.02",
+		"profundidade":"0.77",
+		"petroleo":"5"
+	}, {
+		"pressaoSubterranea":"0.47",
+		"coeficienteDeErro":"0.09",
+		"profundidade":"0.05",
+		"petroleo":"0"
+	}, {
+		"pressaoSubterranea":"0.08",
+		"coeficienteDeErro":"0.02",
+		"profundidade":"0.67",
+		"petroleo":"3"
+	}, {
+		"pressaoSubterranea":"0.67",
+		"coeficienteDeErro":"0.08",
+		"profundidade":"0.92",
+		"petroleo":"4"
+	}, {
+		"pressaoSubterranea":"0.69",
+		"coeficienteDeErro":"0.07",
+		"profundidade":"0.42",
+		"petroleo":"5"
+	}, {
+		"pressaoSubterranea":"0.74",
+		"coeficienteDeErro":"0.06",
+		"profundidade":"0.42",
+		"petroleo":"1"
+	}, {
+		"pressaoSubterranea":"0.62",
+		"coeficienteDeErro":"0.00",
+		"profundidade":"0.69",
+		"petroleo":"5"
+	}, {
+		"pressaoSubterranea":"0.14",
+		"coeficienteDeErro":"0.04",
+		"profundidade":"0.44",
+		"petroleo":"5"
+	}, {
+		"pressaoSubterranea":"0.60",
+		"coeficienteDeErro":"0.09",
+		"profundidade":"0.37",
+		"petroleo":"0"
+	}, {
+		"pressaoSubterranea":"0.74",
+		"coeficienteDeErro":"0.04",
+		"profundidade":"0.73",
+		"petroleo":"4"
+	}, {
+		"pressaoSubterranea":"0.32",
+		"coeficienteDeErro":"0.00",
+		"profundidade":"0.34",
+		"petroleo":"5"
+	}, {
+		"pressaoSubterranea":"0.49",
+		"coeficienteDeErro":"0.09",
+		"profundidade":"0.77",
+		"petroleo":"2"
+	}, {
+		"pressaoSubterranea":"0.31",
+		"coeficienteDeErro":"0.09",
+		"profundidade":"0.16",
+		"petroleo":"4"
+	}, {
+		"pressaoSubterranea":"0.41",
+		"coeficienteDeErro":"0.02",
+		"profundidade":"0.53",
+		"petroleo":"4"
+	}, {
+		"pressaoSubterranea":"0.25",
+		"coeficienteDeErro":"0.02",
+		"profundidade":"0.74",
+		"petroleo":"3"
+	}, {
+		"pressaoSubterranea":"0.26",
+		"coeficienteDeErro":"0.09",
+		"profundidade":"0.72",
+		"petroleo":"4"
+	}, {
+		"pressaoSubterranea":"0.71",
+		"coeficienteDeErro":"0.01",
+		"profundidade":"0.93",
+		"petroleo":"5"
+	}, {
+		"pressaoSubterranea":"0.16",
+		"coeficienteDeErro":"0.06",
+		"profundidade":"0.94",
+		"petroleo":"1"
+	}, {
+		"pressaoSubterranea":"0.36",
+		"coeficienteDeErro":"0.09",
+		"profundidade":"0.13",
+		"petroleo":"2"
+	}, {
+		"pressaoSubterranea":"0.85",
+		"coeficienteDeErro":"0.09",
+		"profundidade":"0.68",
+		"petroleo":"3"
+	}, {
+		"pressaoSubterranea":"0.41",
+		"coeficienteDeErro":"0.08",
+		"profundidade":"0.53",
+		"petroleo":"2"
+	}, {
+		"pressaoSubterranea":"0.08",
+		"coeficienteDeErro":"0.00",
+		"profundidade":"0.51",
+		"petroleo":"3"
+	}, {
+		"pressaoSubterranea":"0.93",
+		"coeficienteDeErro":"0.09",
+		"profundidade":"0.38",
+		"petroleo":"3"
+	}, {
+		"pressaoSubterranea":"0.42",
+		"coeficienteDeErro":"0.08",
+		"profundidade":"0.38",
+		"petroleo":"1"
+	}, {
+		"pressaoSubterranea":"0.51",
+		"coeficienteDeErro":"0.03",
+		"profundidade":"0.57",
+		"petroleo":"0"
+	}, {
+		"pressaoSubterranea":"0.61",
+		"coeficienteDeErro":"0.02",
+		"profundidade":"0.82",
+		"petroleo":"3"
+	}, {
+		"pressaoSubterranea":"0.09",
+		"coeficienteDeErro":"0.09",
+		"profundidade":"0.47",
+		"petroleo":"3"
+	}, {
+		"pressaoSubterranea":"0.85",
+		"coeficienteDeErro":"0.01",
+		"profundidade":"0.42",
+		"petroleo":"5"
+	}, {
+		"pressaoSubterranea":"0.64",
+		"coeficienteDeErro":"0.09",
+		"profundidade":"0.39",
+		"petroleo":"5"
+	}, {
+		"pressaoSubterranea":"0.67",
+		"coeficienteDeErro":"0.09",
+		"profundidade":"0.71",
+		"petroleo":"4"
+	}, {
+		"pressaoSubterranea":"0.48",
+		"coeficienteDeErro":"0.01",
+		"profundidade":"0.44",
+		"petroleo":"3"
+	}, {
+		"pressaoSubterranea":"0.52",
+		"coeficienteDeErro":"0.08",
+		"profundidade":"0.68",
+		"petroleo":"3"
+	}, {
+		"pressaoSubterranea":"0.78",
+		"coeficienteDeErro":"0.09",
+		"profundidade":"0.70",
+		"petroleo":"2"
+	}, {
+		"pressaoSubterranea":"0.07",
+		"coeficienteDeErro":"0.05",
+		"profundidade":"0.00",
+		"petroleo":"4"
+	}, {
+		"pressaoSubterranea":"0.46",
+		"coeficienteDeErro":"0.05",
+		"profundidade":"0.43",
+		"petroleo":"0"
+	}, {
+		"pressaoSubterranea":"0.27",
+		"coeficienteDeErro":"0.09",
+		"profundidade":"0.88",
+		"petroleo":"2"
+	}, {
+		"pressaoSubterranea":"0.46",
+		"coeficienteDeErro":"0.03",
+		"profundidade":"0.29",
+		"petroleo":"0"
+	}, {
+		"pressaoSubterranea":"0.84",
+		"coeficienteDeErro":"0.00",
+		"profundidade":"0.37",
+		"petroleo":"5"
+	}, {
+		"pressaoSubterranea":"0.76",
+		"coeficienteDeErro":"0.08",
+		"profundidade":"0.53",
+		"petroleo":"3"
+	}, {
+		"pressaoSubterranea":"0.29",
+		"coeficienteDeErro":"0.02",
+		"profundidade":"0.29",
+		"petroleo":"2"
+	}, {
+		"pressaoSubterranea":"0.11",
+		"coeficienteDeErro":"0.07",
+		"profundidade":"0.11",
+		"petroleo":"2"
+	}, {
+		"pressaoSubterranea":"0.84",
+		"coeficienteDeErro":"0.01",
+		"profundidade":"0.69",
+		"petroleo":"2"
+	}, {
+		"pressaoSubterranea":"0.25",
+		"coeficienteDeErro":"0.01",
+		"profundidade":"0.93",
+		"petroleo":"0"
+	}, {
+		"pressaoSubterranea":"0.63",
+		"coeficienteDeErro":"0.05",
+		"profundidade":"0.10",
+		"petroleo":"3"
+	}, {
+		"pressaoSubterranea":"0.39",
+		"coeficienteDeErro":"0.04",
+		"profundidade":"0.87",
+		"petroleo":"4"
+	}, {
+		"pressaoSubterranea":"0.05",
+		"coeficienteDeErro":"0.02",
+		"profundidade":"0.86",
+		"petroleo":"2"
+	}, {
+		"pressaoSubterranea":"0.71",
+		"coeficienteDeErro":"0.04",
+		"profundidade":"0.74",
+		"petroleo":"2"
+	}, {
+		"pressaoSubterranea":"0.25",
+		"coeficienteDeErro":"0.07",
+		"profundidade":"0.07",
+		"petroleo":"3"
+	}, {
+		"pressaoSubterranea":"0.35",
+		"coeficienteDeErro":"0.02",
+		"profundidade":"0.88",
+		"petroleo":"1"
+	}, {
+		"pressaoSubterranea":"0.97",
+		"coeficienteDeErro":"0.06",
+		"profundidade":"0.80",
+		"petroleo":"3"
+	}, {
+		"pressaoSubterranea":"0.68",
+		"coeficienteDeErro":"0.07",
+		"profundidade":"0.41",
+		"petroleo":"1"
+	}, {
+		"pressaoSubterranea":"0.85",
+		"coeficienteDeErro":"0.02",
+		"profundidade":"0.04",
+		"petroleo":"0"
+	}]
+}
